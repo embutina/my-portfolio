@@ -1,2 +1,2 @@
 # my-portfolio
-a simple html based portfolio
+A Simple HTML Based Portfolio
